@@ -15,7 +15,7 @@
 
             char letter= 'X';
 
-            bool myBool = true;
+            bool isMarried = true;
 
             double myHeight = 63;
 
