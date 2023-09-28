@@ -29,6 +29,12 @@
             Console.WriteLine($"My dog's name is {myDog}, he is {dogAge} years old.");
             Console.WriteLine($"Name: {myName}\nAge: {firstNumber}");
 
+            Console.WriteLine("Enter Your Name:");
+
+            string name = Console.ReadLine();
+
+            Console.WriteLine($"Hello, {name}!");
+
 
         }
     }
