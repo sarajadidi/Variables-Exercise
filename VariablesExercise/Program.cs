@@ -21,12 +21,13 @@
 
             decimal myNumber = 300.00m;
 
-            string myDog = "Zeus"
-;
+            string myDog = "Zeus";
+
             int dogAge = 2;
 
 
-            Console.WriteLine($"My dog's name is {myDog}, he is {dogAge} years old."); 
+            Console.WriteLine($"My dog's name is {myDog}, he is {dogAge} years old.");
+            Console.WriteLine($"Name: {myName}\nAge: {firstNumber}");
 
 
         }
